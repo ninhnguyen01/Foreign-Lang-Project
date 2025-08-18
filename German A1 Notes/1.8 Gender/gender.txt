@@ -1,0 +1,3 @@
+masculine - der, ein
+feminine - die, eine
+neuter - das, ein

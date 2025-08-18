@@ -1,0 +1,14 @@
+S: Guten Tag!, Mein name ist Sarah (Za-rah). 
+A: Hallo!, Mein name ist Alex.
+S: Auf Wiedersehen Alex.
+A: Tschüss Sarah.
+
+Guten Morgen, Sarah!
+Guten Abend, Alex!
+Gute Nacht Fiona!
+
+Guten Tag (formal)
+Hallo (informal)
+
+Auf Wiedersehen(formal)
+Tschüss (informal)

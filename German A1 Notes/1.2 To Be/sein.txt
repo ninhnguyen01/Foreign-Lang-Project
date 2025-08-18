@@ -1,0 +1,13 @@
+F: Wer bist du?
+A: Ich bin Alex. Was ist dein Name?
+F: Mein name ist Fiona.
+
+ich bin - 1st person
+du bist (informal) - 2nd person
+er/sie/es ist - 3rd person
+
+wer sind - 1st person plural
+ihr seid - 2nd person plural
+Sie sind (formal) - 3rd person
+sie sind - 3rd person plural
+

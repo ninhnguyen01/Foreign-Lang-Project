@@ -1,0 +1,9 @@
+T: Sind Sie Sarah?
+S: Ja ich bin Sarah. Bist du Alex?
+T: Nein! Ich bin Tom.
+S: Noch einmal bitte.
+
+T: Ich bin Tom.
+S: Danke Tom.
+T: Wie geht es Ihnen?
+S: Ich verstehe nicht! Ich weiß nicht!

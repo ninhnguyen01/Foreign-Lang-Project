@@ -1,0 +1,33 @@
+S: Was ist das Datum heute?
+T: Heute is Montag den neunzehnten.
+S: Und morgen? Was ist das Datum morgen?
+T: Morgen ist Dienstag den zwanzigsten.
+
+Die Woche
+
+Montag
+Dienstag
+Mittwoch
+Donnerstag
+Freitag
+Samstag
+Sonntag
+
+Das Jahr
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+
+Der Frühling
+Der Sommer
+Der Herbst
+Der Winter
