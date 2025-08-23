@@ -1,2 +1,2 @@
 # Foreign-Lang-Project
-<img src="asset/stock-birken-sign.jpg" height=800 width=800>
+<img src="asset/stock-birken-sign.jpg" height=700 width=700>
